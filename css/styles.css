@@ -11133,6 +11133,11 @@ footer.footer .social-link:hover {
   /* z-index: -1; */
 }
 
+.second-video {
+  
+  max-width: 100%;
+  /* z-index: -1; */
+}
 
 
 .content {
